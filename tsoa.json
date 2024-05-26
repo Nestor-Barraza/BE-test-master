@@ -1,0 +1,14 @@
+{
+  "entryFile": "src/app.ts",
+  "noImplicitAdditionalProperties": "throw-on-extras",
+  "controllerPathGlobs": ["src/modules/**//*Controller.ts"],
+  "authenticationModule": "src/middlewares/session.ts",
+  "typeFileNameGlobs": ["src/modules/**/*.ts"],
+  "spec": {
+    "outputDirectory": "src/utils",
+    "specVersion": 3
+  },
+  "routes": {
+    "routesDir": "src/routes/"
+  }
+}
