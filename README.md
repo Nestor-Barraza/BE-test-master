@@ -10,8 +10,6 @@ Antes de comenzar, asegúrate de tener instalado lo siguiente en tu sistema:
 
 Node.js (versión 14 o superior)
 
-`npm install`
-
 Sigue estos pasos para correr el proyecto en tu entorno local:
 
 ### Instala las dependencias del proyecto:
